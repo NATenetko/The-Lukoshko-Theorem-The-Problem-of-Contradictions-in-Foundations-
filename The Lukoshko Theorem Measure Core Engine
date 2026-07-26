@@ -24,49 +24,119 @@ This is operator self-similarity of dimension 1, protected against collapse and 
 
 Rest within dynamics, dynamics within rest.
 
-Copyright (c) 2026 Никита Андреевич Тенетко / Nikita Andreevich Tenetko
+Лицензия MIT
 
-Данное программное обеспечение (далее — «Ядро») является проприетарным 
-и защищено авторским правом.
+Copyright (c) 2026 Никита Андреевич Тенетко
 
-ПРАВА:
-- Бесплатное использование Ядра в личных, образовательных, исследовательских и некоммерческих целях.
-- Распространение Ядра в неизменном виде с указанием авторства.
+---
 
-ЗАПРЕЩАЕТСЯ:
-- Коммерческое использование Ядра.
-- Модификация, декомпиляция или создание производных работ на основе Ядра.
+КРАТКО: Программное обеспечение распространяется безвозмездно. Разрешено 
+использование в коммерческих целях, разрешено вносить изменения, копировать, 
+распространять — с обязательным указанием автора Н.А. Тенетко.
 
-Автор оставляет за собой право вносить изменения в любое время и не несет ответственности за результаты его использования в любых условиях включая критически важных системах без предварительных проверок на достаточном для обеспечения безопасности уровне.
+---
 
-Для получения коммерческой лицензии на Ядро:
-n.a.tenetko@yandex.ru
-nikitatenetko@gmail.com 
+ПОЛНЫЙ ТЕКСТ ЛИЦЕНЗИИ:
 
+Настоящим предоставляется разрешение, безвозмездное, любому лицу, получающему
+копию данного программного обеспечения и сопутствующей документации
+(далее — «Программное обеспечение»), использовать Программное обеспечение
+без ограничений, включая, но не ограничиваясь, права на использование,
+копирование, изменение, слияние, публикацию, распространение,
+сублицензирование и/или продажу копий Программного обеспечения, а также
+разрешать лицам, которым предоставляется Программное обеспечение, делать
+это при соблюдении следующих условий:
+
+1. Вышеуказанное уведомление об авторских правах и данное уведомление о 
+   разрешении должны быть включены во все копии или значительные части 
+   Программного обеспечения.
+
+2. При любом использовании, распространении или публикации Программного 
+   обеспечения в любой форме (включая, но не ограничиваясь, исходный код, 
+   исполняемые файлы, веб-приложения, научные работы, отчеты) должно быть 
+   явно указано авторство Никиты Андреевича Тенетко и сохранена ссылка на 
+   оригинальный репозиторий.
+
+3. Запрещается удаление, изменение или сокрытие информации об авторстве 
+   в любой части Программного обеспечения, включая комментарии в коде, 
+   заголовки файлов и уведомления в пользовательском интерфейсе (если 
+   таковые предусмотрены).
+
+Автор и последующие разработчики, вносящие изменения в программное обеспечение, 
+не несут ответственности за результаты использования программного обеспечения 
+в любых условиях, включая критически важные системы, без предварительных 
+проверок на достаточном для обеспечения безопасности уровне.
+
+---
+
+ДОПОЛНИТЕЛЬНЫЕ УСЛОВИЯ
+
+1. Автор оставляет за собой право вносить изменения в Программное обеспечение 
+   в любое время без предварительного уведомления.
+
+2. Для получения коммерческой поддержки, гарантии или разработки пользовательских 
+   решений, пожалуйста, свяжитесь с автором.
+
+---
+
+**Автор:** Никита Андреевич Тенетко  
+**Контакты:** n.a.tenetko@yandex.ru | nikitatenetko@gmail.com  
+**Репозиторий:** [https://github.com/NATenetko/The-Lukoshko-Theorem-The-Problem-of-Contradictions-in-Foundations-]
+
+
+MIT License
 
 Copyright (c) 2026 Nikita Andreevich Tenetko
 
-This software (hereinafter referred to as the "Core") is proprietary 
-and protected by copyright law.
+---
 
-RIGHTS:
-- Free use of the Core for personal, educational, research, and non-commercial purposes.
-- Distribution of the Core in unmodified form with attribution to the author.
+IN SHORT: The software is distributed free of charge. Commercial use is permitted, 
+modification, copying, and distribution are permitted — with mandatory attribution 
+to the author N.A. Tenetko.
 
-RESTRICTIONS:
-- Commercial use of the Core is prohibited.
-- Modification, decompilation, or creation of derivative works based on the Core 
-  is prohibited.
+---
 
-The author reserves the right to make changes at any time and assumes no 
-responsibility for the consequences of using the Core under any circumstances, 
-including in critical systems, without prior testing conducted at a level 
-sufficient to ensure safety.
+FULL LICENSE TEXT:
 
-For obtaining a commercial license for the Core:
-n.a.tenetko@yandex.ru
-nikitatenetko@gmail.com
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
+1. The above copyright notice and this permission notice shall be included in 
+   all copies or substantial portions of the Software.
+
+2. Any use, distribution, or publication of the Software in any form 
+   (including, but not limited to, source code, executables, web applications, 
+   academic papers, reports) must explicitly credit Nikita Andreevich Tenetko 
+   as the author and retain a link to the original repository.
+
+3. It is prohibited to remove, modify, or conceal authorship information 
+   in any part of the Software, including code comments, file headers, 
+   and user interface notices (if any).
+
+The author and subsequent developers who make modifications to the software 
+shall not be held liable for the results of using the software under any 
+circumstances, including in critical systems, without prior verification 
+conducted at a level sufficient to ensure safety.
+
+---
+
+ADDITIONAL TERMS
+
+1. The author reserves the right to make changes to the Software at any time 
+   without prior notice.
+
+2. For commercial support, warranty, or custom development, please contact 
+   the author.
+
+---
+
+**Author:** Nikita Andreevich Tenetko  
+**Contact:** n.a.tenetko@yandex.ru | nikitatenetko@gmail.com  
+**Repository:** [https://github.com/NATenetko/The-Lukoshko-Theorem-The-Problem-of-Contradictions-in-Foundations-]
 
 ---
 
